@@ -11,17 +11,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=iOS%20Software%20Engineer;Flutter%20Enthusiast;Programming%20Instructor;Always%20Learning%20New%20Things!&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p> 
+
 ---
 
 ## 🧠 About Me  
 
 - 🎓 B.Sc. in Computer Science (GPA 3.85) – Modern Academy, Class of 2025  
--   Specialized in **iOS Development** (Swift, UIKit, SwiftUI)
-- 💻 Built projects in **banking, e-commerce, media streaming, and education**  
+- 💻 Specialized in **iOS Development** (Swift, UIKit, SwiftUI) & **Flutter**  
+- 🚀 Built projects in **banking, e-commerce, media streaming, and education**  
 - 🎥 Founder of [**Taht El Jazr**](https://youtube.com/@Taht_ELJAZR) – a YouTube channel teaching Computer Science  
-- ✍️ Instructor at **Brain Hub Academy**, teaching programming courses for kids in a fun & simplified way
-- 🌍 Open to opportunities in **mobile development** worldwide 
-- 🚀 Always learning & experimenting with new tech
+- 👨‍🏫 Instructor at **Brain Hub Academy**, teaching programming courses for kids  
+- 🌍 Open to opportunities in **mobile development** worldwide  
 
 ---
 
@@ -89,7 +89,3 @@
 - 💼 **LinkedIn:** [linkedin.com/in/khalid-gad](https://www.linkedin.com/in/khalid-gad)  
 - 👨‍💻 **GitHub:** [github.com/imkhalidgad](https://github.com/imkhalidgad)  
 - 🎥 **YouTube:** [Taht El Jazr](https://youtube.com/@Taht_ELJAZR)  
-
----
-
-> *“Code is not just about syntax — it’s about creating impact.”*  
