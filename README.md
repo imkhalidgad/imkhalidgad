@@ -2,6 +2,8 @@
   <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
   
   <h3>
+    <br><br>
+    <br><br>
     Welcome to Khalid's Profile! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h3>
@@ -13,8 +15,6 @@
     </a>
   </p>
 </div>
-<br><br>
-<br><br>
 <br><br>
 
 ## 🧠 About Me  
