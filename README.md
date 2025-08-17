@@ -2,6 +2,7 @@
   <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
   
   <h3>
+    align="center"
     <br><br>
     <br><br>
     Welcome to Khalid's Profile! 
@@ -10,6 +11,7 @@
   
   <!-- Typing SVG Animation placed next to GIF -->
   <p>
+    align="center"
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=iOS%20Software%20Engineer;Programming%20Instructor;Always%20Learning%20New%20Things!&font=Fira%20Code&width=500&height=45&color=f75c7e&vCenter=true&size=22">
     </a>
