@@ -37,7 +37,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 ![Objective-C](https://img.shields.io/badge/-Objective--C-05122A?style=flat&logo=apple)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2b%2b)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
@@ -54,8 +54,8 @@
 
 ### 🗄️ Databases & Storage  
 ![CoreData](https://img.shields.io/badge/-CoreData-05122A?style=flat&logo=apple)&nbsp;
-![Realm](https://img.shields.io/badge/-Realm-05122A?style=flat&logo=realm)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Realm](https://img.shields.io/badge/Realm-05122A?style=flat&logo=realm&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
 ![UserDefaults](https://img.shields.io/badge/-UserDefaults-05122A?style=flat&logo=apple)&nbsp;
 ![Keychain](https://img.shields.io/badge/-Keychain-05122A?style=flat&logo=apple)&nbsp;
