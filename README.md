@@ -70,22 +70,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-- 🔹 [**Speedo Transfer**](https://github.com/imkhalidgad/Speedo-Transfer) – iOS Banking App with OTP & Face ID  
-- 🔹 [**Me-True Pay**](https://github.com/imkhalidgad/Me-True-Pay) – Metro ticketing app with QR codes & Firebase  
-- 🔹 [**Foody**](https://github.com/imkhalidgad/Foody) – Restaurant ordering app with MVVM & Alamofire  
-- 🔹 [**CineMatrix**](https://github.com/imkhalidgad/CineMatrix) – Movie & TV search app with API integration  
-
----
-
-## 📊 GitHub Stats  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkhalidgad&layout=compact&theme=tokyonight)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imkhalidgad&show_icons=true&theme=tokyonight)  
-
----
-
 ## 📫 Contact Me  
 
 - 📧 **Email:** [imkhalidgad@gmail.com](mailto:imkhalidgad@gmail.com)  
