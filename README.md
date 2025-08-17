@@ -8,6 +8,8 @@
 <!-- Typing SVG Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <br><br>
+    <br><br>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=iOS%20Software%20Engineer;Programming%20Instructor;Always%20Learning%20New%20Things!&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
   <br><br>
