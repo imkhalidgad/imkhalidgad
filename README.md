@@ -37,7 +37,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 ![Objective-C](https://img.shields.io/badge/-Objective--C-05122A?style=flat&logo=apple)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Java]([https://img.shields.io/badge/-Java-05122A?style=flat&logo=java](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pikpng.com%2Fpngvi%2FJwRoJT_java-logo-png-transparent-vector-java-logo-png-clipart%2F&psig=AOvVaw3OjAck1vIHO7Ppkf92ToOD&ust=1755480242910000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjFzNXXkI8DFQAAAAAdAAAAABAL))&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2b%2b)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
