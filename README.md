@@ -1,7 +1,6 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  <br><br>
   Welcome to Khalid's Profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -9,6 +8,8 @@
 <!-- Typing SVG Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <br><br>
+    <br><br>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=iOS%20Software%20Engineer;Programming%20Instructor;Always%20Learning%20New%20Things!&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
   <br><br>
@@ -20,7 +21,7 @@
 ## 🧠 About Me  
 
 - 🎓 B.Sc. in Computer Science (GPA 3.85) – Modern Academy, Class of 2025  
-- 💻 Specialized in **iOS Development** (Swift, UIKit, SwiftUI) & **Flutter**  
+- 💻 Specialized in **iOS Development** (Swift, UIKit, SwiftUI)  
 - 🚀 Built projects in **banking, e-commerce, media streaming, and education**  
 - 🎥 Founder of [**Taht El Jazr**](https://youtube.com/@Taht_ELJAZR) – a YouTube channel teaching Computer Science  
 - 👨‍🏫 Instructor at **Brain Hub Academy**, teaching programming courses for kids  
