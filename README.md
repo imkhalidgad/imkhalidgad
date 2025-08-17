@@ -37,7 +37,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 ![Objective-C](https://img.shields.io/badge/-Objective--C-05122A?style=flat&logo=apple)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2b%2b)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
@@ -53,19 +53,18 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 
 ### 🗄️ Databases & Storage  
-![CoreData](https://img.shields.io/badge/-CoreData-05122A?style=flat&logo=apple)&nbsp;
-![Realm](https://img.shields.io/badge/Realm-05122A?style=flat&logo=realm&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
-![UserDefaults](https://img.shields.io/badge/-UserDefaults-05122A?style=flat&logo=apple)&nbsp;
-![Keychain](https://img.shields.io/badge/-Keychain-05122A?style=flat&logo=apple)&nbsp;
+![CoreData](https://img.shields.io/badge/-CoreData-05122A?style=flat&logo=apple)&nbsp; 
+![Realm](https://img.shields.io/badge/-Realm-05122A?style=flat&logo=realm)&nbsp; 
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; 
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp; 
+![UserDefaults](https://img.shields.io/badge/-UserDefaults-05122A?style=flat&logo=apple)&nbsp; 
+![Keychain](https://img.shields.io/badge/-Keychain-05122A?style=flat&logo=apple)&nbsp; 
 ![Plist](https://img.shields.io/badge/-Plist-05122A?style=flat&logo=apple)&nbsp;
 
 ### ⚙️ Tools & Others  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Agile](https://img.shields.io/badge/-Agile-05122A?style=flat&logo=trello)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
 ![REST API](https://img.shields.io/badge/-REST-05122A?style=flat&logo=postman)&nbsp;
 ![MVVM](https://img.shields.io/badge/-MVVM-05122A?style=flat&logo=apple)&nbsp;
 ![MVP](https://img.shields.io/badge/-MVP-05122A?style=flat&logo=apple)&nbsp;
